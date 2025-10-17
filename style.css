@@ -1,0 +1,50 @@
+/* Custom Font */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f8fafc;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header & Navigation */
+header {
+  background-color: #1e293b;
+  color: white;
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+nav a {
+  color: #93c5fd;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: #facc15;
+}
+
+/* Image styling */
+.main-image {
+  width: 50%;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+/* Paragraph padding and layout */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  background: #1e293b;
+  color: white;
+  padding: 10px;
+}
